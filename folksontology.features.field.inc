@@ -10,8 +10,8 @@
 function folksontology_field_default_fields() {
   $fields = array();
 
-  // Exported field: 'node-test-body'
-  $fields['node-test-body'] = array(
+  // Exported field: 'node-folksontology_node-body'
+  $fields['node-folksontology_node-body'] = array(
     'field_config' => array(
       'active' => '1',
       'cardinality' => '1',
@@ -39,7 +39,7 @@ function folksontology_field_default_fields() {
       'type' => 'text_with_summary',
     ),
     'field_instance' => array(
-      'bundle' => 'test',
+      'bundle' => 'folksontology_node',
       'default_value' => NULL,
       'deleted' => '0',
       'description' => '',

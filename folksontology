@@ -11,3 +11,10 @@ projects[standard][download][type] = "git"
 projects[standard][download][url] = "git@redmine.wi1projects.com:rarediseases/rdn-folksontology.git"
 projects[standard][type] = "profile"
 
+; Modules
+projects[ctools][version] = "1.0-rc1"
+
+projects[features][version] = "1.0-beta5"
+
+projects[views][version] = "3.0"
+
