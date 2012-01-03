@@ -9,7 +9,7 @@ projects[drupal][version] = "7.10"
 ; and url is the url of the download.
 projects[standard][download][type] = "git"
 projects[standard][download][url] = "git@redmine.wi1projects.com:rarediseases/rdn-folksontology.git"
-projects[standard][type] = "profile"
+projects[standard][type] = "module"
 
 ; Modules
 projects[ctools][version] = "1.0-rc1"
