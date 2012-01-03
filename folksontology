@@ -18,8 +18,6 @@ projects[community_tags][version] = "1.0"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[features_extra][download][type] = ""
-projects[features_extra][download][url] = ""
 projects[features_extra][type] = "module"
 projects[features_extra][version] = "1.x-dev"
 
