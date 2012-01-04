@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the folksontology feature.
- */
-
-include_once('folksontology.features.inc');
