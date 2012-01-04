@@ -16,14 +16,12 @@ projects[ctools][version] = "1.0-rc1"
 
 projects[community_tags][version] = "1.0"
 
-; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
-; and url is the url of the download.
 projects[features_extra][type] = "module"
 projects[features_extra][version] = "1.x-dev"
 
-projects[features][version] = "1.0-beta5"
+projects[features][version] = "1.0-beta6"
 
-projects[nodequeue][version] = "2.0-beta1"
+projects[strongarm][version] = "2.0-beta5"
 
 projects[tagadelic][version] = "1.x-dev"
 
