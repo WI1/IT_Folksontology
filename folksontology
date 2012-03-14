@@ -19,5 +19,4 @@ projects[tagadelic][version] = "1.x-dev"
 projects[taxonomy_filter][version] = "1.x-dev"
 projects[tf_views][version] = "1.x-dev"
 projects[views][version] = "3.3"
-projects[features][version] = "1.0-beta6"
 
