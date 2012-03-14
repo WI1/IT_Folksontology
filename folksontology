@@ -14,6 +14,7 @@ projects[standard][type] = "module"
 ; Modules
 projects[ctools][version] = "1.0-rc1"
 projects[community_tags][version] = "1.0"
+projects[features][version] = "1.0-beta6"
 projects[synonyms][version] = "1.x-dev"
 projects[tagadelic][version] = "1.x-dev"
 projects[taxonomy_filter][version] = "1.x-dev"
